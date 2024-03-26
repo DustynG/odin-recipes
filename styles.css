@@ -1,0 +1,8 @@
+.food-name,
+#header {
+    text-align: center;
+}
+.food-name {
+    font-size: 22px;
+    background-color: aquamarine;
+}
